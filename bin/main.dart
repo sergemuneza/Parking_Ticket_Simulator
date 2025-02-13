@@ -47,6 +47,6 @@ void main() {
     print("\n❌ Parking violation detected! Ticket issued:");
     print(ticket);
   } else {
-    print("\n✅ No ticket issued. The car is parked legally.");
+    print("\n✅ No ticket issued. The car is parked legally."); 
   }
 }
