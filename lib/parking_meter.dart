@@ -1,15 +1,6 @@
-// class ParkingMeter {
-//   final int _minutesPurchased;
-
-//   ParkingMeter(this._minutesPurchased);
-
-//   int get minutesPurchased => _minutesPurchased;
-
-//   @override
-//   String toString() {
-//     return 'Parking Meter: $_minutesPurchased minutes purchased';
-//   }
-// }
+/*
+20248/2022 SERGE MUNEZA
+*/
 
 class ParkingMeter {
   // Private instance variable
